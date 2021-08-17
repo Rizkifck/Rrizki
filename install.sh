@@ -12,3 +12,4 @@ pkg install npm -y
 npm install
 npm audit fix
 
+|•••••••••••••••••••••••••|
