@@ -103,14 +103,14 @@ nopref = false
 waktuafk = '-'
 alasanafk = '-'
 prefa = '-'
-namaowner = 'anfebn'
-namabot = 'anfebnBotz'
-fake = 'anfebnBotz✓ '
+namaowner = 'Rizkifck'
+namabot = 'TimTRY'
+fake = 'Rrizki'
 yuz = '```'
-owner = '6287772343860' //ganti pake no lu
+owner = '6285651045302' //ganti pake no lu
 numbernye = '0'
-instagram1 = '@anfebn'
-instagram2 = 'https://instagram.com/anfebn'
+instagram1 = '@rizkitirta99_'
+instagram2 = 'https://instagram.com/rizkitirta99_'
 
 //JANGAN DI APA APAIN LAGI BODO
 const kontol = 'BEGIN:VCARD\n'  
@@ -1164,8 +1164,8 @@ if ((Object.keys(mek.message)[0] === 'ephemeralMessage' && JSON.stringify(mek.me
 ╠══════════════════⎉
 ║ *Dirgahayu Republik*
 ║ *Indonesia 76th🇮🇩*
-║ *Indonesia Tangguh*
-║ *Indonesia Tumbuh*
+║ _*Indonesia Tangguh*_
+║ _*Indonesia Tumbuh*_
 ╠══════════════════⎉
 ║-NO SPAM BOT-
 ║-NO CALL BOT-
